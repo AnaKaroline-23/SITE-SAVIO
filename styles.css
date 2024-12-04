@@ -1,0 +1,60 @@
+.st-emotion-cache-ysk9xe e1nzilvr5 {
+    font-family: "Source Sans Pro", sans-serif;
+    background: fixed;color: aqua;
+}
+.st-emotion-cache-bm2z3a {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+    -webkit-box-align: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(60, 133, 167),rgb(6, 8, 8));
+}
+.st-emotion-cache-6qob1r {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: overlay;
+    background-color: black
+}
+.st-emotion-cache-gi0tri {
+    margin-left: 0.5rem;
+    display: inline-flex;
+    gap: 0.5rem;
+    vertical-align: middle;
+}
+
+     
+.st-emotion-cache-bm2z3a {
+    display: flex
+;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color:rgb(72, 159, 162);
+}
+#seu-cadastro{
+    font-size: 50px;
+    color: rgb(63, 49, 49); /* Cor do texto */
+    
+    
+
+}
+.stMainBlockContainer{
+    border-radius: 25px;
+    background-color: rgb(85, 175, 179);
+    border-top-left-radius: 25px ;
+   
+}
+
+
+#studyhub{
+   color: black;
+}
+
+#f249533e{
+    color: black;
+}
